@@ -1,5 +1,6 @@
 # NOTE 1 = This project was written in Turkish, code notes are English so that you can change it to English by yourself if you want!
 # NOTE 2 = If you want to reset login settings, you need to run eeprom_clear example from your coding app.
+# NOTE 3 = Artificial Intelligence was only USED for HTML codes!
 
 # SecureChat V3
 
